@@ -2,7 +2,7 @@
 ## Introduction
 Adversarial attack to detectors
 
-This is N0.4 solution for "CIKM-2020 Alibaba-Tsinghua Adversarial Challenge on Object Detection"
+This is NO.4 solution for "CIKM-2020 Alibaba-Tsinghua Adversarial Challenge on Object Detection"
 
 ## Cite
 Please cite this paper if you use this code in your own work:
