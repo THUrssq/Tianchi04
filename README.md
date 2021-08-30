@@ -4,6 +4,9 @@ Adversarial attack to detectors
 
 This is NO.4 solution for "CIKM-2020 Alibaba-Tsinghua Adversarial Challenge on Object Detection"
 
+Pretrained weights of models are available here. 
+link：https://pan.baidu.com/s/1wj4mffNObu78yAIVKoFLUQ 
+password：mxwn
 ## Cite
 Please cite this paper if you use this code in your own work:
 ```
